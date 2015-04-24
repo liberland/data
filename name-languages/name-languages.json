@@ -1,0 +1,113 @@
+{
+  "ar": {
+    "name": "ليبرلاند",
+    "motto": "عش ودع الآخرين يعيشون"
+  },
+  "az": {
+    "name": "Azad Liberlandiya respublikası",
+    "shortname": "Liberlandiya",
+    "motto": "Yaşa və Yaşat"
+  },
+  "be": {
+    "name": "Свабодная Рэспубліка Ліберлэнд",
+    "shortname": "Ліберлэнд"
+  },
+  "ca": {
+    "name": "República Lliure de Liberland",
+    "shortname": "Liberland",
+    "motto": "Viure i deixar viure"
+  },
+  "cs": {
+    "name": "Svobodná republika Liberland",
+    "shortname": "Liberland",
+    "motto": "Žít a nechat žít"
+  },
+  "en": {
+    "name": "Free Republic of Liberland",
+    "shortname": "Liberland",
+    "motto": "To live and let live"
+  },
+  "fr": {
+    "name": "République libre de Liberland",
+    "shortname": "Liberland",
+    "motto": "Vivre et laisser vivre"
+  },
+  "he": {
+    "name": "הרפובליקה החופשית של ליברלנד",
+    "shortname": "ליברלנד",
+    "motto": "חיה ותן לחיות"
+  },
+  "hr": {
+    "name": "Samoproglašena mikrodržava Liberland",
+    "shortname": "Liberland",
+    "motto": "Živi i pusti druge da žive"
+  },
+  "hu": {
+    "name": "Liberland Szabad Köztársaság",
+    "shortname": "Liberland",
+    "motto": "Élni és élni hagyni"
+  },
+  "id": {
+    "name": "Republik Liberland",
+    "shortname": "Liberland"
+  },
+  "it": {
+    "name": "Libera Repubblica di Liberlandia",
+    "shortname": "Liberland",
+    "motto": "Vivi e lascia vivere"
+  },
+  "ja": {
+    "name": "リベルランド自由共和国",
+    "shortname": "リベルランド",
+    "motto": "自分も生き、人も生かせ"
+  },
+  "mk": {
+    "name": "Слободна Република Либерланд",
+    "shortname": "Либерланд",
+    "motto": "Живеј и нека живеат другите"
+  },
+  "nl": {
+    "name": "Vrije Republiek van Liberland",
+    "shortname": "Liberland",
+    "motto": "Leven en laten leven"
+  },
+  "pt": {
+    "name": "República Livre de Liberland",
+    "shortname": "Liberland",
+    "motto": "Viva e deixe viver"
+  },
+  "ru": {
+    "name": "Свободная республика Либерленд",
+    "shortname": "Либерландия",
+    "motto": "Жить и дать жить другим"
+  },
+  "sk": {
+    "name": "Slobodná republika Liberland",
+    "shortname": "Liberland",
+    "motto": "Žiť a nechať žiť"
+  },
+  "sr": {
+    "name": "Слободна Република Либерланд",
+    "shortname": "Либерланд",
+    "motto": "Живи и пусти друге да живе"
+  },
+  "sv": {
+    "name": "Fria republiken Liberland",
+    "shortname": "Liberland"
+  },
+  "tr": {
+    "name": "Özgür Liberland Cumhuriyeti",
+    "shortname": "Liberland",
+    "motto": "Yaşa ve yaşat"
+  },
+  "uk": {
+    "name": "Вільна республіка Ліберленд",
+    "shortname": "Ліберланд"
+  },
+  "zh": {
+    "name": "利伯蘭自由共和國",
+    "shortname": "利伯",
+    "motto": "共生共存"
+  }
+}
+

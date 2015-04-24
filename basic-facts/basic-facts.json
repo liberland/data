@@ -1,0 +1,48 @@
+{
+  "name": {
+    "cz": "Svobodná republika Liberland",
+    "en": "Free Republic of Liberland"
+  },
+  "shortname": "Liberland",
+  "motto": {
+    "cs": "Žít a nechat žít",
+    "en": "To live and let live"
+  },
+  "official_languages": {
+     "cs": "Czech", 
+     "en": "English"
+  },
+  "capital": "n/a",
+  "currency": [ "BTS", "CZK" ],
+  "government_form": "Constitutional republic with elements of direct democracy",
+  "government": {
+    "president": "Vít Jedlička"
+  },
+  "established": "2015-04-13",
+  "founder": "Vít Jedlička",
+  "geography": {
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "location": [ 45.766667, 18.866667 ],
+    "landlocked": true,
+    "border": [ "SRB", "HRV" ]
+  },
+  "timezone": "Europe/Belgrade",
+  "utc_offset": "+01:00",
+  "tld": [ "n/a" ],
+  "calling_code": [ "n/a" ],
+  "denonym": "Liberlandian",
+  "repositories": {
+    "assets": "https://github.com/liberland/assets",
+    "constitution": "https://github.com/liberland/constitution",
+    "data": "https://github.com/liberland/data",
+    "docs": "https://github.com/liberland/docs",
+    "translations": "https://github.com/liberland/translations"
+  },
+  "contacts": {
+    "email": "info@liberland.org",
+    "github": "https://github.com/liberland/",
+    "facebook": "https://www.facebook.com/liberland",
+    "web": "http://liberland.org/"
+  }
+}
