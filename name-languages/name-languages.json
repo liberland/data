@@ -27,6 +27,11 @@
     "shortname": "Liberland",
     "motto": "To live and let live"
   },
+  "es": {
+    "name": "República Libre de Liberland",
+    "shortname": "Liberland",
+    "motto": "Vivir y dejar vivir"
+  },
   "fr": {
     "name": "République libre de Liberland",
     "shortname": "Liberland",
@@ -109,7 +114,12 @@
     "name": "Вільна республіка Ліберленд",
     "shortname": "Ліберланд"
   },
-  "zh": {
+  "zh-CN": {
+    "name": "利伯兰自由共和国",
+    "shortname": "利伯",
+    "motto": "共生共存"
+  },
+  "zh-TW": {
     "name": "利伯蘭自由共和國",
     "shortname": "利伯",
     "motto": "共生共存"
