@@ -1,0 +1,12 @@
+{
+    "very important nubmers": {
+        "first number": "0",
+        "most cool number": "42",
+        "liberland number": "1"
+    },
+    "not so important numbers": {
+        "second number": "1",
+        "controversial number": "1",
+        "not a number": "a"
+    }
+}
