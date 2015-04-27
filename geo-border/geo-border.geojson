@@ -4,6 +4,7 @@
         {
             "type": "Feature",
             "id": "4791014",
+            "properties": {},
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
