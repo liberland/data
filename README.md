@@ -6,6 +6,7 @@ This repository contains all public Liberland datasets.
 
 - **[basic-facts](basic-facts/basic-facts.json)** - basic info about Liberland
 - **[name-languages](name-languages/name-languages.json)** - name, shortname and motto in many languages
+- **[geo-border](geo-border/geo-border.geojson)** - borders in GeoJSON
 
 ## License
 
