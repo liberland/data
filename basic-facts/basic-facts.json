@@ -16,7 +16,13 @@
   "currency": [ "BTS", "CZK" ],
   "government_form": "Constitutional republic with elements of direct democracy",
   "government": {
-    "president": "Vít Jedlička"
+    "president": "Vít Jedlička",
+    "vice_president": "Boguslaw Wozniak",
+    "secretary_of_state": "Tariq J. Abbasi",
+    "minister_of_foreign_affairs": "Thomas D. Walls",
+    "minister_of_interior": "Samuel Der-Kazaryan",
+    "minister_of_finance": "Navid Saberin",
+    "minister_of_justice": "Michal Ptáčník"
   },
   "established": "2015-04-13",
   "founder": "Vít Jedlička",
@@ -31,7 +37,7 @@
   "utc_offset": "+01:00",
   "tld": [ "n/a" ],
   "calling_code": [ "n/a" ],
-  "denonym": "Liberlandian",
+  "denonym": [ "Liberlandian", "Liberlander" ],
   "repositories": {
     "assets": "https://github.com/liberland/assets",
     "constitution": "https://github.com/liberland/constitution",
@@ -42,6 +48,7 @@
   "contacts": {
     "email": "info@liberland.org",
     "github": "https://github.com/liberland/",
+    "twitter": "https://twitter.com/Liberland_org",
     "facebook": "https://www.facebook.com/liberland",
     "web": "http://liberland.org/"
   }
